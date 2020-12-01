@@ -14,5 +14,5 @@ Final Report:
 
 The final report had two visualizations. The first one was a macro-level view that displayed whether staff were willing or unwilling to return to the offce, this was also broken down by job function and title. 
 
-![Artemas Artemas](Visualization-1.gif)
+![Visualization 1](Visualization-1.gif)
 
