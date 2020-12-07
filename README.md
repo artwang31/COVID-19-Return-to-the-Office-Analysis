@@ -8,7 +8,7 @@ After meeting with fellow team leads, I was tasked to create a visualization tha
 
 Methodology:
 
-Given the time restraints, I decided to use a Google survey instead of my preferred data collection method of Qualtrics. Sometimes I prefer to use Google surveys over Qualtrics, especially when information needs to be gathered quickly so decisions can be made as soon as possible! Once the survey was launched, I used the first sets of data that trickled in to start creating my visualization in Tableau. Finally, once the Tableau report was completed, I permissioned the report through SQL to conduct further analysis and share the visualization.
+Given the time restraints, I used a Google survey instead of my preferred data collection method of Qualtrics. Sometimes I prefer to use Google surveys over Qualtrics, especially when information needs to be gathered quickly so decisions can be made as soon as possible! Once the survey was launched, I used the first sets of data that trickled in to start creating my visualization in Tableau. Finally, once the Tableau report was completed, I permissioned the report through SQL to conduct further analysis and share the visualization.
 
 Final Report:
 
