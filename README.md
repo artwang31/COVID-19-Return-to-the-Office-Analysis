@@ -12,7 +12,7 @@ Given the time restraints, I used a Google survey instead of my preferred data c
 
 Final Report:
 
-The final report had two visualizations. The first one was a macro-level view that displayed whether staff were willing or unwilling to return to the office, this was also broken down by job function and title. 
+The final report had two visualizations. The first one was a macro-level view that displays whether staff were willing or unwilling to return to the office, this was also broken down by job function and title. 
 
 ![Visualization 1](Visualization-1.gif)
 
