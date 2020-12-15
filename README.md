@@ -1,6 +1,6 @@
 # COVID-19-Return-to-the-Office-Analysis
 
-** Personal and/or unique identifiers have been removed from all data ** 
+** PERSONAL AND/OR UNIQUE IDENTIFIERS HAVE BEEN REMOVED FROM ALL SAMPLE DATA ** 
 
 Managed the complete data survey, processing, and analysis process for the company regarding staff sentiment about returning to/working from the office.
 
