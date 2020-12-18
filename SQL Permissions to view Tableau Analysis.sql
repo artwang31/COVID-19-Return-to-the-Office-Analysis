@@ -30,7 +30,7 @@ SELECT A.EmployeeKey,
     WHERE D.StatusName = 'Active' AND
           (A.JobTitle LIKE '%Principal%' OR
           A.JobTitle LIKE '%Dean%' OR
-          A.JobTitle = 'Director of School Operations')
+          A.JobTitle = 'Director of School Ops')
 UNION
 SELECT DISTINCT A.EmployeeKey,
 		A.JobTitle,
