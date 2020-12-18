@@ -12,11 +12,11 @@ SELECT DISTINCT A.EmployeeKey,
 	  A.JobTitle = 'Executive' OR
           A.JobTitle = 'Regional Superintendent' OR
           A.JobTitle = 'Regional Director' OR
-	  A.EmployeeKey = '105893' OR
-	  A.EmployeeKey = 'EBMFH2N9Q'  OR
-	  A.EmployeeKey = '105895'  OR
-	  A.EmployeeKey = '102628'  OR
-	  A.EmployeeKey = 'PRUW3DISZ')
+	  A.EmployeeKey = '10522893' OR
+	  A.EmployeeKey = 'EBMssFH2N9Q'  OR
+	  A.EmployeeKey = '105dd895'  OR
+	  A.EmployeeKey = '102ss628'  OR
+	  A.EmployeeKey = 'PRUWaa3DISZ')
 UNION
 SELECT A.EmployeeKey,
        A.JobTitle,
@@ -37,11 +37,11 @@ SELECT DISTINCT A.EmployeeKey,
 		B.WinNT_ID as ADUserName,
 		--- Use Employee ID to add an exceptions school ---
 		--- User below as template - paste in new line below green line below ---
-		--- WHEN b.EmployeeID = '101747' ---
+		--- WHEN b.EmployeeID = '101sd747' ---
 		CASE
-                    WHEN B.EmployeeID = 'VV5KV1Q1E' THEN 'Company A'
+                    WHEN B.EmployeeID = 'VV5KVasd1Q1E' THEN 'Company A'
                     --- Paste new exceptions here ---
-                    WHEN B.EmployeeID = '101705' THEN 'Company B'
+                    WHEN B.EmployeeID = '1017asd05' THEN 'Company B'
                     ELSE C.Division
                 END AS Division,
 		C.Division as Department
