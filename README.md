@@ -16,7 +16,7 @@ Final Report:
 
 The final report had two visualizations. The first one was a macro-level view that displays whether staff were willing or unwilling to return to the office, this was also broken down by job function and title. 
 
-![Visualization-1](XXXXXX.gif)
+![Visualization 1](Visualization-1.gif)
 
 The second visualization displays the reasons why staff did not want to return to physical offices. This helped decision makers understand which issues staff were concerned with so they could decide which issues to address and how they would address them.
 
