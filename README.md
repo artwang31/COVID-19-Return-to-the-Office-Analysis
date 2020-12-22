@@ -20,4 +20,4 @@ The final report had two visualizations. The first one was a macro-level view th
 
 The second visualization displays the reasons why staff did not want to return to physical offices. This helped decision makers understand which issues staff were concerned with so they could decide which issues to address and how they would address them.
 
-![Visualization 2](XXXXXX.gif)
+![Visualization 2](Visualization-2.gif)
