@@ -2,7 +2,7 @@
 
 **PERSONAL AND/OR UNIQUE IDENTIFIERS HAVE BEEN REMOVED FROM ALL SAMPLE DATA** 
 
-Managed the complete data survey, processing, and analysis process for the company regarding staff sentiment about returning to/working from the office.
+Managed the complete data survey, processing, and analysis process for the company regarding staff sentiment about returning to/working from the office. 
 
 **Goal and Purpose:**
 
